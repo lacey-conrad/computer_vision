@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.1}{General}{}% 1
+\BOOKMARK [1][-]{section.2}{Point Cloud info}{}% 2
+\BOOKMARK [1][-]{section.3}{Object Detection in DNN/CNN}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{About the Ground Truth}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{Working with data in neural networks}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Edges as features}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Pixel Intensity Gradient}{section.4}% 7
